@@ -33,7 +33,7 @@ input.apple-switch:checked:after {
 }
 
 system {
-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif; !important
 }
 
 hr {
