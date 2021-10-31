@@ -12,3 +12,5 @@ if (r == true) {
 
 }
 }
+
+document.getElementsByClassName("form-switch").addEventListener("click", dark);
